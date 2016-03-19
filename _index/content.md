@@ -1,28 +1,14 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://www.dropbox.com/s/ntc2c7xabt2m46p/Me.jpg?dl=0"
+name: "Stephanie Taylor"
+title: "IT Support Engineer"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Stephanie is a IT Support Enginer with over 10 years combined experience in front-end, back-end and server maintenace.*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+Her accomplishments include designing and building career-oriented projects online as well as working with various companies as a freelance consultant and independent contractor. Experienced in Project Management, Global Sales, and Programming.  
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
+Stephanie is available for projects on a case by case basis. 
 
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
 
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
 
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
