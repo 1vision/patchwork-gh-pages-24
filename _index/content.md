@@ -4,7 +4,7 @@ name: "Stephanie Taylor"
 title: "IT Support Engineer"
 ---
 
-#### *Stephanie is an IT Support Engineer with over 10 years combined experience in front-end, back-end and server maintenace.*
+#### *Stephanie is a IT Support Engineer with over 10 years combined experience in front-end, back-end and server maintenace.*
 
 Her accomplishments include designing and building career-oriented projects online as well as working with various companies as a freelance consultant and independent contractor. Experienced in Project Management, Global Sales, and Programming.  
 
