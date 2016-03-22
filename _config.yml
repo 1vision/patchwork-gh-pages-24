@@ -3,7 +3,7 @@ title: Stephanie's Profile
 email: taylor.stephanie7@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Front-end designer learning back-end development.
-baseurl: "https://github.com/1vision/patchwork-gh-pages-24"
+baseurl: "/patchwork-gh-pages-24"
 url: "http://1vision.github.io"
 twitter_username: st1vision
 github_username:  1vision
